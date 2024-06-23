@@ -1,0 +1,170 @@
+Source IP: 192.168.10.33
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: UDP / DNS Ans b'Android.local.'
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.10.41
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.10.41:48244 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.10.41:48244 > 13.107.42.14:https PA / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.10.41:48244 > 13.107.42.14:https PA / Raw
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.10.41
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.10.41:48244 A / Padding
+--------------------------------------------------
+Source IP: 163.70.139.60
+Destination IP: 192.168.10.41
+Protocol: TCP
+Payload: TCP 163.70.139.60:https > 192.168.10.41:45866 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 163.70.139.60
+Protocol: TCP
+Payload: TCP 192.168.10.41:45866 > 163.70.139.60:https A
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 163.70.139.60
+Protocol: TCP
+Payload: TCP 192.168.10.41:45866 > 163.70.139.60:https PA / Raw
+--------------------------------------------------
+Source IP: 163.70.139.60
+Destination IP: 192.168.10.41
+Protocol: TCP
+Payload: TCP 163.70.139.60:https > 192.168.10.41:45866 A
+--------------------------------------------------
+Source IP: 192.168.10.33
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: UDP / DNS Ans b'Android.local.'
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 142.250.182.10
+Protocol: UDP
+Payload: UDP 192.168.10.41:47880 > 142.250.182.10:https / Raw
+--------------------------------------------------
+Source IP: 142.250.182.10
+Destination IP: 192.168.10.41
+Protocol: UDP
+Payload: UDP 142.250.182.10:https > 192.168.10.41:47880 / Raw
+--------------------------------------------------
+Source IP: 142.250.182.10
+Destination IP: 192.168.10.41
+Protocol: UDP
+Payload: UDP 142.250.182.10:https > 192.168.10.41:47880 / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 142.250.182.10
+Protocol: UDP
+Payload: UDP 192.168.10.41:47880 > 142.250.182.10:https / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 163.70.139.60
+Protocol: TCP
+Payload: TCP 192.168.10.41:45866 > 163.70.139.60:https PA / Raw
+--------------------------------------------------
+Source IP: 163.70.139.60
+Destination IP: 192.168.10.41
+Protocol: TCP
+Payload: TCP 163.70.139.60:https > 192.168.10.41:45866 A
+--------------------------------------------------
+Source IP: 163.70.139.60
+Destination IP: 192.168.10.41
+Protocol: TCP
+Payload: TCP 163.70.139.60:https > 192.168.10.41:45866 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 163.70.139.60
+Protocol: TCP
+Payload: TCP 192.168.10.41:45866 > 163.70.139.60:https A
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 35.190.10.96
+Protocol: UDP
+Payload: UDP 192.168.10.41:56523 > 35.190.10.96:https / Raw
+--------------------------------------------------
+Source IP: 192.168.10.33
+Destination IP: 224.0.0.22
+Protocol: Unknown
+Payload: Raw / Padding
+--------------------------------------------------
+Source IP: 35.190.10.96
+Destination IP: 192.168.10.41
+Protocol: UDP
+Payload: UDP 35.190.10.96:https > 192.168.10.41:56523 / Raw
+--------------------------------------------------
+Source IP: 35.190.10.96
+Destination IP: 192.168.10.41
+Protocol: UDP
+Payload: UDP 35.190.10.96:https > 192.168.10.41:56523 / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 35.190.10.96
+Protocol: UDP
+Payload: UDP 192.168.10.41:56523 > 35.190.10.96:https / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 35.190.10.96
+Protocol: UDP
+Payload: UDP 192.168.10.41:56523 > 35.190.10.96:https / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 35.190.10.96
+Protocol: UDP
+Payload: UDP 192.168.10.41:56523 > 35.190.10.96:https / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 35.190.10.96
+Protocol: UDP
+Payload: UDP 192.168.10.41:56523 > 35.190.10.96:https / Raw
+--------------------------------------------------
+Source IP: 35.190.10.96
+Destination IP: 192.168.10.41
+Protocol: UDP
+Payload: UDP 35.190.10.96:https > 192.168.10.41:56523 / Raw
+--------------------------------------------------
+Source IP: 35.190.10.96
+Destination IP: 192.168.10.41
+Protocol: UDP
+Payload: UDP 35.190.10.96:https > 192.168.10.41:56523 / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 35.190.10.96
+Protocol: UDP
+Payload: UDP 192.168.10.41:56523 > 35.190.10.96:https / Raw
+--------------------------------------------------
+Source IP: 35.190.10.96
+Destination IP: 192.168.10.41
+Protocol: UDP
+Payload: UDP 35.190.10.96:https > 192.168.10.41:56523 / Raw
+--------------------------------------------------
+Source IP: 192.168.10.33
+Destination IP: 224.0.0.22
+Protocol: Unknown
+Payload: Raw / Padding
+--------------------------------------------------
+Source IP: 35.190.10.96
+Destination IP: 192.168.10.41
+Protocol: UDP
+Payload: UDP 35.190.10.96:https > 192.168.10.41:56523 / Raw
+--------------------------------------------------
+Source IP: 192.168.10.41
+Destination IP: 35.190.10.96
+Protocol: UDP
+Payload: UDP 192.168.10.41:56523 > 35.190.10.96:https / Raw
+--------------------------------------------------
+Source IP: 35.190.10.96
+Destination IP: 192.168.10.41
+Protocol: UDP
+Payload: UDP 35.190.10.96:https > 192.168.10.41:56523 / Raw
+--------------------------------------------------
